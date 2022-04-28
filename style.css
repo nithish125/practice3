@@ -1,0 +1,90 @@
+header {
+    background-color: gray;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav {
+    color: aliceblue;
+}
+
+h1 {
+    color: whitesmoke;
+    font-size: 28px;
+}
+
+#bol {
+    font-size: 20px;
+}
+
+.exp {
+    color: black;
+    margin-left: 5%;
+    padding: 2%;
+    font-size: 20px;
+}
+
+.sp {
+    font-size: 14px;
+    margin-left: 59px;
+}
+.part{
+    margin-left: 20%;
+    padding: 0% ;
+}
+.bl{
+    margin-left:21px;
+}
+.wait{
+    margin-left: 5%;
+}
+.wai{
+    margin-left: 1%;
+}
+
+#firsh1 {
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.par {
+    margin-left: 165px;
+}
+
+.skill {
+    margin-left: 5%;
+}
+#hs{
+    ;
+}
+
+.form {
+    padding-bottom: 10px;
+    color: yellow;
+}
+
+input {
+    max-width: 900px;
+    padding: 1px 2px;
+}
+
+#b {
+    background-color: blue;
+    cursor: pointer;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: grey;
+    padding: 20px;
+}
+
+.heading {
+    color: red;
+}
+
+a {
+    color: red;
+}
